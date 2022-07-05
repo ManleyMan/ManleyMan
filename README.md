@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **Creating Coding Careers**
 
-- 🌱 I’m currently learning **ServiceNow, JS React, HTML5, CSS**
+- 🌱 I’m currently learning **ServiceNow, ReactJS, AngularJS, HTML5, CSS**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
